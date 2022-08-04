@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Daniel-P25" alt="Daniel-P25"/></p>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&color=04C9F7&center=true&vCenter=true&width=550&height=40&lines=Hi+%F0%9F%91%8B%2C+I'm+Daniel+Pinto...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&color=04C9F7&center=true&vCenter=true&width=650&height=40&lines=Hey+There+%F0%9F%91%8B%2C+I'm+Daniel+Pinto..!)](https://git.io/typing-svg)
 <h3 align="center">A passionate student of systems engineering and a lover of development.</h3>
 
 -------------
@@ -72,12 +72,11 @@
 <div align="center">
 
 [<img alt="danielpinto | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](#)
-[<img alt="danielpinto | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](#)
+[<img alt="danielpinto | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/DanielP_2525)
 [<img alt="danielpinto | GitHub" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/Daniel-P25)
-[<img alt="danielpinto | XDA Developers" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](#)
-[<img alt="danielpinto | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](#)
-[<img alt="danielpinto | Facebook" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](#)
-[<img alt="danielpinto | Telegram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](#)
+[<img alt="danielpinto | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/daniel_mpinto/)
+[<img alt="danielpinto | Facebook" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/profile.php?id=100052806528844)
+[<img alt="danielpinto | Telegram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/DanielPinto_25)
 </div>
 
 </br>
