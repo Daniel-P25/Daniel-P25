@@ -17,9 +17,8 @@
 <li>🎉 Fun fact: I like video games。</li>
 </ul>
 
-<h2>🚀 Some Tools I Use</h2>
-
-
+<h2>🚀 Some Tools I Use:</h2>
+<div align="center">
   
 [<code>
 <img alt="visual studio code" width="40px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
@@ -42,13 +41,14 @@
 [<code>
 <img alt="html5" width="40px" src="https://img.icons8.com/color/240/000000/html-5.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+</br>
+
 [<code>
 <img alt="css3" width="40px" src="https://img.icons8.com/color/240/000000/css3.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<code>
 <img alt="sass" width="40px" src="https://img.icons8.com/color/240/000000/sass.png">
 </code>](https://sass-lang.com/)
-  </br>
 [<code>
 <img alt="Git" width="40px" src="https://img.icons8.com/color/240/000000/git.png">
 </code>](https://git-scm.com/)
@@ -64,11 +64,12 @@
 [<code>
 <img alt="linux" width="40px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
-
+</div>
 
 </br>
 
 <h2>📲 Connect with me:</h2>
+<div align="center">
 
 [<img alt="danielpinto | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](#)
 [<img alt="danielpinto | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](#)
@@ -77,9 +78,11 @@
 [<img alt="danielpinto | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](#)
 [<img alt="danielpinto | Facebook" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](#)
 [<img alt="danielpinto | Telegram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](#)
+</div>
 
 </br>
 
 <h2>📊 GitHub Stats:</h2>
+<div align="center">
 <img width="650px" src="https://github-readme-stats.vercel.app/api?username=Daniel-P25&show_icons=true&count_private=true" alt="Daniel-P25" />
-
+</div>
