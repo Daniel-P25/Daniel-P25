@@ -1,19 +1,23 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Daniel-P25" alt="Daniel-P25"/></p>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&color=04C9F7&center=true&vCenter=true&width=550&height=40&lines=Hi+%F0%9F%91%8B%2C+I'm+Daniel+Pinto...)](https://git.io/typing-svg)
-
-<p align="center">
-  <br><img src="https://github.com/arshsahzad/arshsahzad/blob/master/assets/gifs/developer.gif" width="500px">
-</p>
-  
 <h3 align="center">A passionate student of systems engineering and a lover of development.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/daniel pinto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="daniel pinto" height="30" width="40" /></a>
-</p>
+-------------
 
-### Languages and Tools:
+<img align="right" src="https://github.com/arshsahzad/arshsahzad/blob/master/assets/gifs/developer.gif" width="450px">
+<h2>⚡️ A Few Quick Facts</h2>
+<ul>
+<li>🔭 Currently studying systems engineering..</li>
+<li>🧐 Learning about <strong>databases</strong>, and other <strong>programming languages</strong>.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Daniel-P25">Github</a>.</li>
+<li>📝 I regularly learn about new technologies.</li>
+<li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
+<li>📙 Check out my <a href="#">resume</a> <strong>disabled</strong>.</li>
+<li>🎉 Fun fact: I like video games。</li>
+</ul>
+
+<h2>🚀 Some Tools I Use</h2>
 
 [<code>
 <img alt="visual studio code" width="40px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
@@ -61,3 +65,19 @@
 [<code>
 <img alt="linux" width="40px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
+
+-------------
+
+<h3 align="left">Connect with me:</h3>
+[<img align="left" alt="vibhorchaudhary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="vibhorchaudhary | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="vibhorchaudhary | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="vibhorchaudhary | XDA Developers" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="vibhorchaudhary | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="vibhorchaudhary | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="vibhorchaudhary | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+
+---------------
+
+### 📊 GitHub Stats:
+<img src="https://github-readme-stats.vercel.app/api?username=Daniel-P25&show_icons=true&count_private=true" alt="Daniel-P25" />
