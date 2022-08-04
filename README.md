@@ -19,6 +19,8 @@
 
 <h2>🚀 Some Tools I Use</h2>
 
+
+  
 [<code>
 <img alt="visual studio code" width="40px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
@@ -46,9 +48,7 @@
 [<code>
 <img alt="sass" width="40px" src="https://img.icons8.com/color/240/000000/sass.png">
 </code>](https://sass-lang.com/)
-[<code>
-<img alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-</code>](https://dev.mysql.com/)
+  </br>
 [<code>
 <img alt="Git" width="40px" src="https://img.icons8.com/color/240/000000/git.png">
 </code>](https://git-scm.com/)
@@ -58,7 +58,6 @@
 [<code>
 <img alt="terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </code>](https://docs.microsoft.com/en-us/windows/terminal/)
-<br />
 [<code>
 <img alt="windows" width="40px" src="https://img.icons8.com/color/240/000000/windows-10.png">
 </code>](https://www.microsoft.com/en-us/windows)
@@ -66,18 +65,21 @@
 <img alt="linux" width="40px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
 
--------------
 
-<h3 align="left">Connect with me:</h3>
-[<img align="left" alt="vibhorchaudhary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="vibhorchaudhary | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="vibhorchaudhary | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="vibhorchaudhary | XDA Developers" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="vibhorchaudhary | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="vibhorchaudhary | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="vibhorchaudhary | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+</br>
 
----------------
+<h2>📲 Connect with me:</h2>
 
-### 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=Daniel-P25&show_icons=true&count_private=true" alt="Daniel-P25" />
+[<img alt="danielpinto | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](#)
+[<img alt="danielpinto | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](#)
+[<img alt="danielpinto | GitHub" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/Daniel-P25)
+[<img alt="danielpinto | XDA Developers" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](#)
+[<img alt="danielpinto | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](#)
+[<img alt="danielpinto | Facebook" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](#)
+[<img alt="danielpinto | Telegram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](#)
+
+</br>
+
+<h2>📊 GitHub Stats:</h2>
+<img width="650px" src="https://github-readme-stats.vercel.app/api?username=Daniel-P25&show_icons=true&count_private=true" alt="Daniel-P25" />
+
