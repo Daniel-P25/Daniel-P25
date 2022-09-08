@@ -73,7 +73,7 @@
 <h2>📲 Connect with me:</h2>
 <div align="center">
 
-[<img alt="danielpinto | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](#)
+[<img alt="danielpinto | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/daniel-mauricio-pinto-5b6031248/)
 [<img alt="danielpinto | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/DanielP_2525)
 [<img alt="danielpinto | GitHub" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/Daniel-P25)
 [<img alt="danielpinto | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/daniel_mpinto/)
