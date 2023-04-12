@@ -24,46 +24,45 @@
 <h2>🚀 Some Tools I Use:</h2>
 <div align="rigth"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTM" target="_blank" > 
-  <img align="left" src="https://img.icons8.com/color/240/000000/html-5.png" alt="html5" width="52px"/> 
+  <img align="left" src="https://img.icons8.com/color/240/000000/html-5.png" alt="html5" width="50px"/> 
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
-  <img align="left" src="https://img.icons8.com/color/240/000000/css3.png" alt="css3" width="52px"/> 
+  <img align="left" src="https://img.icons8.com/color/240/000000/css3.png" alt="css3" width="50px"/> 
 </a>
 <a href="https://sass-lang.com/" target="_blank"> 
-  <img align="left" src="https://img.icons8.com/color/240/000000/sass.png" alt="sass" width="52px"/> 
+  <img align="left" src="https://img.icons8.com/color/240/000000/sass.png" alt="sass" width="50px"/> 
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-  <img align="left" src="https://img.icons8.com/color/240/000000/javascript.png" alt="javascript" width="52px"/> 
+  <img align="left" src="https://img.icons8.com/color/240/000000/javascript.png" alt="javascript" width="50px"/> 
 </a> 
 <a href="https://gulpjs.com/" target="_blank"> 
   <img align="left" src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png" alt="gulpjs" width="24px"/> 
 </a>
 <a href="https://reactjs.org/" target="_blank"> 
-  <img align="left" alt="React" height ="52px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+  <img align="left" alt="React" height ="50px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
 <a href="hhttps://www.php.net/manual/es/intro-whatis.php" target="_blank"> 
-  <img align="left" src="https://img.icons8.com/officel/160/null/php-logo.png" alt="php" width="52px"/> 
+  <img align="left" src="https://img.icons8.com/officel/160/null/php-logo.png" alt="php" width="50px"/> 
 </a> 
 <a href="https://www.python.org/" target="_blank"> 
-  <img align="left" src="https://img.icons8.com/color/240/000000/python.png" alt="python" width="52px"/> 
+  <img align="left" src="https://img.icons8.com/color/240/000000/python.png" alt="python" width="50px"/> 
 </a> 
 <a href="https://docs.oracle.com/en/java/" target="_blank"> 
-  <img align="left" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png" alt="java" width="52px"/> 
+  <img align="left" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png" alt="java" width="50px"/> 
 </a> 
   
 <a href="https://git-scm.com/" target="_blank"> 
-  <img align="left" src="https://img.icons8.com/color/240/000000/git.png" alt="git" width="52px"/> 
+  <img align="left" src="https://img.icons8.com/color/240/000000/git.png" alt="git" width="50px"/> 
 </a> 
-<a href="https://git-scm.com/" target="_blank"> 
-  <img align="left" src="https://img.icons8.com/ios-glyphs/240/000000/github.png" alt="github" width="52px"/> 
+<a href="https://es.wikipedia.org/wiki/GitHub" target="_blank"> 
+  <img align="left" src="https://img.icons8.com/ios-glyphs/240/000000/github.png" alt="github" width="50px"/> 
 </a> 
 <a href="https://docs.microsoft.com/en-us/windows/terminal/" target="_blank"> 
-  <img align="left" src="https://img.icons8.com/officel/80/null/console.png" alt="terminal" width="52px"/> 
+  <img align="left" src="https://img.icons8.com/officel/80/null/console.png" alt="terminal" width="50px"/> 
 </a> 
 <a href="https://www.figma.com/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='52px'/> </a>
+  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='50px'/> </a>
 </div>
 
-<br><br>
 <br>
  
 <h2>📲 Connect with me:</h2>
