@@ -78,7 +78,7 @@
 
 <h2>📊 GitHub Stats:</h2>
 <div align="center">
-<img width="650px" src="https://github-readme-stats.vercel.app/api?username=Daniel-P25&show_icons=true&count_private=true" alt="Daniel-P25" />
+<img width="650px" src="https://github-readme-stats.vercel.app/api?username=Dani-Pinto&show_icons=true&count_private=true" alt="Dani-Pinto" />
 </div>
 </br>
 <div align="center"> 
