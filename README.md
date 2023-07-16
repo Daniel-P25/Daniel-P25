@@ -1,6 +1,6 @@
 <div align="center"> 
 
-<img src="https://komarev.com/ghpvc/?username=Daniel-P25" alt="Daniel-P25"/>      [![GitHub followers](https://img.shields.io/github/followers/Daniel-P25.svg?style=social&label=Follow)](https://github.com/Daniel-P25?tab=followers)
+<img src="https://komarev.com/ghpvc/?username=Dani-Pinto" alt="Dani-Pinto"/>      [![GitHub followers](https://img.shields.io/github/followers/Dani-Pinto.svg?style=social&label=Follow)](https://github.com/Dani-Pinto?tab=followers)
 </div>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&color=04C9F7&center=true&vCenter=true&width=650&height=40&lines=Hey+There+%F0%9F%91%8B%2C+I'm+Daniel+Pinto..!)](https://git.io/typing-svg)
@@ -13,9 +13,9 @@
 <ul>
 <li>🔭 I’m currently working on something cool 😉.</li>
 <li>🌱 I’m currently learning <strong>JavaScript, Java, Python, and others</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Daniel-P25">Github</a>.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Dani-Pinto">Github</a>.</li>
 <li>📝 I regularly learn about new technologies.</li>
-<li>📙 Check out my <a href="github.com/Daniel-P25">resume</a> <strong>| disabled |</strong>.</li>
+<li>📙 Check out my <a href="github.com/Dani-Pinto">resume</a> <strong>| disabled |</strong>.</li>
 <li>🎉 Fun fact:  I ❤️ 🐶s and Video Games.</li>
 </ul>
 
@@ -70,7 +70,7 @@
 
 [<img alt="danielpinto | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/daniel-mauricio-pinto-5b6031248/)
 [<img alt="danielpinto | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/DanielP_2525)
-[<img alt="danielpinto | GitHub" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/Daniel-P25)
+[<img alt="danielpinto | GitHub" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/Dani-Pinto)
 [<img alt="danielpinto | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/daniel_mpinto/)
 [<img alt="danielpinto | Facebook" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/profile.php?id=100052806528844)
 [<img alt="danielpinto | Telegram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/DanielPinto_25)
@@ -83,5 +83,5 @@
 </br>
 <div align="center"> 
 
-[![GitHub followers](https://img.shields.io/github/followers/Daniel-P25.svg?style=social&label=Follow)](https://github.com/Daniel-P25?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/Dani-Pinto.svg?style=social&label=Follow)](https://github.com/Dani-Pinto?tab=followers)
 </div>
