@@ -1,6 +1,6 @@
 <div align="center"> 
 
-<img src="https://komarev.com/ghpvc/?username=Dani-Pinto" alt="Dani-Pinto"/>      [![GitHub followers](https://img.shields.io/github/followers/Dani-Pinto.svg?style=social&label=Follow)](https://github.com/Dani-Pinto?tab=followers)
+<img src="https://komarev.com/ghpvc/?username=damapire" alt="damapire"/>      [![GitHub followers](https://img.shields.io/github/followers/damapire.svg?style=social&label=Follow)](https://github.com/damapire?tab=followers)
 </div>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&color=04C9F7&center=true&vCenter=true&width=650&height=40&lines=Hey+There+%F0%9F%91%8B%2C+I'm+Daniel+Pinto..!)](https://git.io/typing-svg)
@@ -78,10 +78,10 @@
 
 <h2>📊 GitHub Stats:</h2>
 <div align="center">
-<img width="650px" src="https://github-readme-stats.vercel.app/api?username=Dani-Pinto&show_icons=true&count_private=true" alt="Dani-Pinto" />
+<img width="650px" src="https://github-readme-stats.vercel.app/api?username=damapire&show_icons=true&count_private=true" alt="damapire" />
 </div>
 </br>
 <div align="center"> 
 
-[![GitHub followers](https://img.shields.io/github/followers/Dani-Pinto.svg?style=social&label=Follow)](https://github.com/Dani-Pinto?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/damapire.svg?style=social&label=Follow)](https://github.com/damapire?tab=followers)
 </div>
